@@ -1,0 +1,635 @@
+{
+  "values": [
+    {
+      "id": "63104986bf507152ecce876bc4607393ceae4e77",
+      "displayId": "63104986bf50",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707883073000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1713484962000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "63104986bf507152ecce876bc4607393ceae4e77",
+          "displayId": "63104986bf50"
+        }
+      ]
+    },
+    {
+      "id": "ffa9c6a3df9afcee7f46a691b00467445cdc9f53",
+      "displayId": "ffa9c6a3df9a",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707883073000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1712817167000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "ffa9c6a3df9afcee7f46a691b00467445cdc9f53",
+          "displayId": "ffa9c6a3df9a"
+        }
+      ]
+    },
+    {
+      "id": "565910f585966aaac9c1afd73c09f51ba33ccca6",
+      "displayId": "565910f58596",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707883073000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1711943596000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "565910f585966aaac9c1afd73c09f51ba33ccca6",
+          "displayId": "565910f58596"
+        }
+      ]
+    },
+    {
+      "id": "fe4f8dd7df2dce7055e4e4942451408dbbe4319e",
+      "displayId": "fe4f8dd7df2d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707883073000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1707883073000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "fe4f8dd7df2dce7055e4e4942451408dbbe4319e",
+          "displayId": "fe4f8dd7df2d"
+        }
+      ]
+    },
+    {
+      "id": "fc346995b471f32db54534a6df1014800cf9bcd7",
+      "displayId": "fc346995b471",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707813837000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1707813837000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing\"",
+      "parents": [
+        {
+          "id": "fc346995b471f32db54534a6df1014800cf9bcd7",
+          "displayId": "fc346995b471"
+        }
+      ]
+    },
+    {
+      "id": "9a39f7904b4ffe4760841b3b729f74341fbe018c",
+      "displayId": "9a39f7904b4f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707785342000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1707801873000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "9a39f7904b4ffe4760841b3b729f74341fbe018c",
+          "displayId": "9a39f7904b4f"
+        }
+      ]
+    },
+    {
+      "id": "17bb830dbf1fd43a8a6622d61cbe53d424b83363",
+      "displayId": "17bb830dbf1f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707785342000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1707801815000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "17bb830dbf1fd43a8a6622d61cbe53d424b83363",
+          "displayId": "17bb830dbf1f"
+        }
+      ]
+    },
+    {
+      "id": "82866644c2ab2b980f2cf6f23b4dcda82a32cffe",
+      "displayId": "82866644c2ab",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1707785342000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1707785342000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3358] - Asia Utils Vehicle service connection failing",
+      "parents": [
+        {
+          "id": "82866644c2ab2b980f2cf6f23b4dcda82a32cffe",
+          "displayId": "82866644c2ab"
+        }
+      ]
+    },
+    {
+      "id": "9c92e9cea1ceb51334d0e4b62e331b8088fce096",
+      "displayId": "9c92e9cea1ce",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1698967489000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "9c92e9cea1ceb51334d0e4b62e331b8088fce096",
+          "displayId": "9c92e9cea1ce"
+        }
+      ]
+    },
+    {
+      "id": "59baf8bb1079aeda6845087de62bb58e2893ec03",
+      "displayId": "59baf8bb1079",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1698228900000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "59baf8bb1079aeda6845087de62bb58e2893ec03",
+          "displayId": "59baf8bb1079"
+        }
+      ]
+    },
+    {
+      "id": "2c05010276329d0269c0065b7e0860747174c021",
+      "displayId": "2c0501027632",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1697784128000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "2c05010276329d0269c0065b7e0860747174c021",
+          "displayId": "2c0501027632"
+        }
+      ]
+    },
+    {
+      "id": "acbda9bcb4dbad4763f3a757149f54c561b6f1b7",
+      "displayId": "acbda9bcb4db",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1697519906000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "acbda9bcb4dbad4763f3a757149f54c561b6f1b7",
+          "displayId": "acbda9bcb4db"
+        }
+      ]
+    },
+    {
+      "id": "5b3fd7dcd7aed024b2949023db3e553130b8f0ad",
+      "displayId": "5b3fd7dcd7ae",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1697519862000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "5b3fd7dcd7aed024b2949023db3e553130b8f0ad",
+          "displayId": "5b3fd7dcd7ae"
+        }
+      ]
+    },
+    {
+      "id": "e5c8e3cfa1b456de1544b03f62d00fb81a476e9d",
+      "displayId": "e5c8e3cfa1b4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697508873000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1697508873000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3201] - update security tokens",
+      "parents": [
+        {
+          "id": "e5c8e3cfa1b456de1544b03f62d00fb81a476e9d",
+          "displayId": "e5c8e3cfa1b4"
+        }
+      ]
+    }
+  ],
+  "size": 14
+}

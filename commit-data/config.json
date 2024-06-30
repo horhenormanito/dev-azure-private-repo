@@ -1,0 +1,590 @@
+{
+  "values": [
+    {
+      "id": "6b053ee07735705b851af38858fbddf2a4460a74",
+      "displayId": "6b053ee07735",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718845182000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719213787000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3548] - Config manager CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "6b053ee07735705b851af38858fbddf2a4460a74",
+          "displayId": "6b053ee07735"
+        }
+      ]
+    },
+    {
+      "id": "99983b8622b4fa1f90f57d6259365164ddeb93e6",
+      "displayId": "99983b8622b4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702885975000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719213744000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "99983b8622b4fa1f90f57d6259365164ddeb93e6",
+          "displayId": "99983b8622b4"
+        }
+      ]
+    },
+    {
+      "id": "b88f184656dd5d258ede325196ae154836289406",
+      "displayId": "b88f184656dd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718773858000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719213726000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3165] - Config Manager - unable to remove/update property",
+      "parents": [
+        {
+          "id": "b88f184656dd5d258ede325196ae154836289406",
+          "displayId": "b88f184656dd"
+        }
+      ]
+    },
+    {
+      "id": "d2f0026e33784f6cf330886f82380074f20036e8",
+      "displayId": "d2f0026e3378",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718845182000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718874057000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3548] - Config manager CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "d2f0026e33784f6cf330886f82380074f20036e8",
+          "displayId": "d2f0026e3378"
+        }
+      ]
+    },
+    {
+      "id": "e8fa48867089651ea86c7935aec4a68de8e70fff",
+      "displayId": "e8fa48867089",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718845182000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718845182000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3548] - Config manager CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "e8fa48867089651ea86c7935aec4a68de8e70fff",
+          "displayId": "e8fa48867089"
+        }
+      ]
+    },
+    {
+      "id": "ee1136be57e9afe5a27c2a9cc131a9eb9db337c3",
+      "displayId": "ee1136be57e9",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718773858000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718779499000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3165] - Config Manager - unable to remove/update property",
+      "parents": [
+        {
+          "id": "ee1136be57e9afe5a27c2a9cc131a9eb9db337c3",
+          "displayId": "ee1136be57e9"
+        }
+      ]
+    },
+    {
+      "id": "1f2be586ce4d4d7444e8814813cf9a5ff5b4a508",
+      "displayId": "1f2be586ce4d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702885975000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718779483000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "1f2be586ce4d4d7444e8814813cf9a5ff5b4a508",
+          "displayId": "1f2be586ce4d"
+        }
+      ]
+    },
+    {
+      "id": "1ef32b3b531ce44e308945df5e31cdff3de8553d",
+      "displayId": "1ef32b3b531c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718773858000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718773858000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3165] - Config Manager - unable to remove/update property",
+      "parents": [
+        {
+          "id": "1ef32b3b531ce44e308945df5e31cdff3de8553d",
+          "displayId": "1ef32b3b531c"
+        }
+      ]
+    },
+    {
+      "id": "418fac9c7929781b29f4dc9be3256f4671c2a430",
+      "displayId": "418fac9c7929",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718768150000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718768150000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "418fac9c7929781b29f4dc9be3256f4671c2a430",
+          "displayId": "418fac9c7929"
+        }
+      ]
+    },
+    {
+      "id": "04b4054a701632e911843f6dded60940539b5505",
+      "displayId": "04b4054a7016",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702953569000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1702953569000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "04b4054a701632e911843f6dded60940539b5505",
+          "displayId": "04b4054a7016"
+        }
+      ]
+    },
+    {
+      "id": "66c3fa1822ce65cf12a9830f970b78f30ee5e601",
+      "displayId": "66c3fa1822ce",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702885975000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1702885975000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "66c3fa1822ce65cf12a9830f970b78f30ee5e601",
+          "displayId": "66c3fa1822ce"
+        }
+      ]
+    },
+    {
+      "id": "005cb3c62a2ef4d7ba28ac4dcd33d15132ac10e7",
+      "displayId": "005cb3c62a2e",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702883350000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1702883350000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens\"",
+      "parents": [
+        {
+          "id": "005cb3c62a2ef4d7ba28ac4dcd33d15132ac10e7",
+          "displayId": "005cb3c62a2e"
+        }
+      ]
+    },
+    {
+      "id": "c1c91cab59d2995f83bd02fb792b98c2bff7e341",
+      "displayId": "c1c91cab59d2",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1702625403000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1702625403000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3271] - Config manager screens",
+      "parents": [
+        {
+          "id": "c1c91cab59d2995f83bd02fb792b98c2bff7e341",
+          "displayId": "c1c91cab59d2"
+        }
+      ]
+    }
+  ],
+  "size": 13
+}

@@ -1,0 +1,2075 @@
+{
+  "values": [
+    {
+      "id": "6a8a5047cf28f29f2cf5095d9800a4006be7cfcb",
+      "displayId": "6a8a5047cf28",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719378586000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719378586000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3571] - Event Monitor CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "6a8a5047cf28f29f2cf5095d9800a4006be7cfcb",
+          "displayId": "6a8a5047cf28"
+        }
+      ]
+    },
+    {
+      "id": "c6e9e2cab9de681a5cbb73d212e23a1cc9c6b40c",
+      "displayId": "c6e9e2cab9de",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1692922622000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "c6e9e2cab9de681a5cbb73d212e23a1cc9c6b40c",
+          "displayId": "c6e9e2cab9de"
+        }
+      ]
+    },
+    {
+      "id": "0ded1b71c660e6424e479afe0af431b0d391b764",
+      "displayId": "0ded1b71c660",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1692510928000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "0ded1b71c660e6424e479afe0af431b0d391b764",
+          "displayId": "0ded1b71c660"
+        }
+      ]
+    },
+    {
+      "id": "8ee23e7f19cb18f960d0ff458da08b8d22883617",
+      "displayId": "8ee23e7f19cb",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1691539885000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "8ee23e7f19cb18f960d0ff458da08b8d22883617",
+          "displayId": "8ee23e7f19cb"
+        }
+      ]
+    },
+    {
+      "id": "f99f4502f479f75acc92545771c0d1507d4a4f40",
+      "displayId": "f99f4502f479",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1690955717000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "f99f4502f479f75acc92545771c0d1507d4a4f40",
+          "displayId": "f99f4502f479"
+        }
+      ]
+    },
+    {
+      "id": "c01b8883fe5e0e7048c1c73bd3c279f7cb1e2226",
+      "displayId": "c01b8883fe5e",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1690955574000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "c01b8883fe5e0e7048c1c73bd3c279f7cb1e2226",
+          "displayId": "c01b8883fe5e"
+        }
+      ]
+    },
+    {
+      "id": "56b0acda82cdd5061c2455025a30b618ecc344fd",
+      "displayId": "56b0acda82cd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1690869528000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1690869528000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3087] - Onboarding of CCBA job status monitoring into Asia Utilities",
+      "parents": [
+        {
+          "id": "56b0acda82cdd5061c2455025a30b618ecc344fd",
+          "displayId": "56b0acda82cd"
+        }
+      ]
+    },
+    {
+      "id": "e11f6f5c6c848eae8ab448dcf19efc8342a98edb",
+      "displayId": "e11f6f5c6c84",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1685667569000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "e11f6f5c6c848eae8ab448dcf19efc8342a98edb",
+          "displayId": "e11f6f5c6c84"
+        }
+      ]
+    },
+    {
+      "id": "b88fdeb5fc2f52e5f2871227b34afd3d71a1489d",
+      "displayId": "b88fdeb5fc2f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684950233000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "b88fdeb5fc2f52e5f2871227b34afd3d71a1489d",
+          "displayId": "b88fdeb5fc2f"
+        }
+      ]
+    },
+    {
+      "id": "6be44b9cc7fae07d355bc9b02f8053c82eca01ba",
+      "displayId": "6be44b9cc7fa",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684848305000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "6be44b9cc7fae07d355bc9b02f8053c82eca01ba",
+          "displayId": "6be44b9cc7fa"
+        }
+      ]
+    },
+    {
+      "id": "55f6cf681ebba7a7803d065b975cd176f6b51953",
+      "displayId": "55f6cf681ebb",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684810183000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "55f6cf681ebba7a7803d065b975cd176f6b51953",
+          "displayId": "55f6cf681ebb"
+        }
+      ]
+    },
+    {
+      "id": "1830db76935b53829e998e50f7da47f5ae5c0c88",
+      "displayId": "1830db76935b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684809957000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "1830db76935b53829e998e50f7da47f5ae5c0c88",
+          "displayId": "1830db76935b"
+        }
+      ]
+    },
+    {
+      "id": "f126c50b2764d117bfc7ac32617a91292e191a12",
+      "displayId": "f126c50b2764",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684808460000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684808460000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "f126c50b2764d117bfc7ac32617a91292e191a12",
+          "displayId": "f126c50b2764"
+        }
+      ]
+    },
+    {
+      "id": "a05243d5be1c730d08204bbb3e6a276d7d0c31b3",
+      "displayId": "a05243d5be1c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1684806372000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684806372000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3022] - Event database sql is slow",
+      "parents": [
+        {
+          "id": "a05243d5be1c730d08204bbb3e6a276d7d0c31b3",
+          "displayId": "a05243d5be1c"
+        }
+      ]
+    },
+    {
+      "id": "ea6a27715d6844640766c8c83fdd5ba5f753c0c2",
+      "displayId": "ea6a27715d68",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684459086000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "ea6a27715d6844640766c8c83fdd5ba5f753c0c2",
+          "displayId": "ea6a27715d68"
+        }
+      ]
+    },
+    {
+      "id": "ae11e875f172ef7c5cc0f44c06a1296edd1cd01d",
+      "displayId": "ae11e875f172",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684459079000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "ae11e875f172ef7c5cc0f44c06a1296edd1cd01d",
+          "displayId": "ae11e875f172"
+        }
+      ]
+    },
+    {
+      "id": "449b2c21a1ad1243cbd4f35591857619e0085d6b",
+      "displayId": "449b2c21a1ad",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1684459069000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "449b2c21a1ad1243cbd4f35591857619e0085d6b",
+          "displayId": "449b2c21a1ad"
+        }
+      ]
+    },
+    {
+      "id": "dd42163c42047a25208eb61eca77323291086a6f",
+      "displayId": "dd42163c4204",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683893410000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "dd42163c42047a25208eb61eca77323291086a6f",
+          "displayId": "dd42163c4204"
+        }
+      ]
+    },
+    {
+      "id": "52763b49d07c2cd0ee360634a773b725dab87ae9",
+      "displayId": "52763b49d07c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683893403000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "52763b49d07c2cd0ee360634a773b725dab87ae9",
+          "displayId": "52763b49d07c"
+        }
+      ]
+    },
+    {
+      "id": "9f44ae3812cea3ffab2003f3c222a4b677afc196",
+      "displayId": "9f44ae3812ce",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683893395000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "9f44ae3812cea3ffab2003f3c222a4b677afc196",
+          "displayId": "9f44ae3812ce"
+        }
+      ]
+    },
+    {
+      "id": "86b3018b519861ddb57d244a5d11045bce2fbd52",
+      "displayId": "86b3018b5198",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683533539000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "86b3018b519861ddb57d244a5d11045bce2fbd52",
+          "displayId": "86b3018b5198"
+        }
+      ]
+    },
+    {
+      "id": "28f8fad3c6e5ab2865c45880632a7992a9ad8c13",
+      "displayId": "28f8fad3c6e5",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683526786000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "28f8fad3c6e5ab2865c45880632a7992a9ad8c13",
+          "displayId": "28f8fad3c6e5"
+        }
+      ]
+    },
+    {
+      "id": "4bd8463e83d6bb4117a00373f1ce04968f1492bc",
+      "displayId": "4bd8463e83d6",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683526682000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "4bd8463e83d6bb4117a00373f1ce04968f1492bc",
+          "displayId": "4bd8463e83d6"
+        }
+      ]
+    },
+    {
+      "id": "4dbaa64594641b866702fed2c5d6ca5e1c70e546",
+      "displayId": "4dbaa6459464",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683207297000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683207297000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "4dbaa64594641b866702fed2c5d6ca5e1c70e546",
+          "displayId": "4dbaa6459464"
+        }
+      ]
+    },
+    {
+      "id": "44e5953df6a9b512de4a5e3f7e34882731fb7cd9",
+      "displayId": "44e5953df6a9",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683189633000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "44e5953df6a9b512de4a5e3f7e34882731fb7cd9",
+          "displayId": "44e5953df6a9"
+        }
+      ]
+    },
+    {
+      "id": "90916cd6a89faf6dd23103c8db708aae4ecc900a",
+      "displayId": "90916cd6a89f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683189552000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "90916cd6a89faf6dd23103c8db708aae4ecc900a",
+          "displayId": "90916cd6a89f"
+        }
+      ]
+    },
+    {
+      "id": "d8635c4167260190ce223b38aff97083da9cdfcd",
+      "displayId": "d8635c416726",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683177999000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683177999000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "d8635c4167260190ce223b38aff97083da9cdfcd",
+          "displayId": "d8635c416726"
+        }
+      ]
+    },
+    {
+      "id": "a95a8d80e11db32e2b593cfd255a2d7ca058edc9",
+      "displayId": "a95a8d80e11d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1683123579000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1683123579000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2979] - PRB0015053 PTASK0018969 Check what Qnect failures may contribute to failure of event processing and assess if we have monitoring setup for thos",
+      "parents": [
+        {
+          "id": "a95a8d80e11db32e2b593cfd255a2d7ca058edc9",
+          "displayId": "a95a8d80e11d"
+        }
+      ]
+    },
+    {
+      "id": "ee60c2ede85c0220a86bdc795c0a1d3e949513af",
+      "displayId": "ee60c2ede85c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682918289000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682989290000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "ee60c2ede85c0220a86bdc795c0a1d3e949513af",
+          "displayId": "ee60c2ede85c"
+        }
+      ]
+    },
+    {
+      "id": "f516586f38cb3af03ab598c6a2be3fbf74390e09",
+      "displayId": "f516586f38cb",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682918289000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682989210000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "f516586f38cb3af03ab598c6a2be3fbf74390e09",
+          "displayId": "f516586f38cb"
+        }
+      ]
+    },
+    {
+      "id": "31e315e977689990a09bccceaffcaaac335d3fb5",
+      "displayId": "31e315e97768",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682918289000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682918289000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "31e315e977689990a09bccceaffcaaac335d3fb5",
+          "displayId": "31e315e97768"
+        }
+      ]
+    },
+    {
+      "id": "50714d4bf904f716a7588c1d9f9db2ef7d74b9d6",
+      "displayId": "50714d4bf904",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682650720000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682861340000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "50714d4bf904f716a7588c1d9f9db2ef7d74b9d6",
+          "displayId": "50714d4bf904"
+        }
+      ]
+    },
+    {
+      "id": "d4681adb124da995833c98fa50c21c3ac4820021",
+      "displayId": "d4681adb124d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682650720000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682861274000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "d4681adb124da995833c98fa50c21c3ac4820021",
+          "displayId": "d4681adb124d"
+        }
+      ]
+    },
+    {
+      "id": "9c27d3be212450244e3603d75a2a04111f044874",
+      "displayId": "9c27d3be2124",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682674488000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682674488000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "9c27d3be212450244e3603d75a2a04111f044874",
+          "displayId": "9c27d3be2124"
+        }
+      ]
+    },
+    {
+      "id": "aa8e045a4572c449433662a549ed9372d0f53bc3",
+      "displayId": "aa8e045a4572",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682663141000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682663141000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "aa8e045a4572c449433662a549ed9372d0f53bc3",
+          "displayId": "aa8e045a4572"
+        }
+      ]
+    },
+    {
+      "id": "02a6793ab13951c5fbba19006ef90d8e3fe31252",
+      "displayId": "02a6793ab139",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682650720000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682650720000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "02a6793ab13951c5fbba19006ef90d8e3fe31252",
+          "displayId": "02a6793ab139"
+        }
+      ]
+    },
+    {
+      "id": "fe44cba6bc54f9315b48e5099b13f535fdc3d4d8",
+      "displayId": "fe44cba6bc54",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682561046000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "fe44cba6bc54f9315b48e5099b13f535fdc3d4d8",
+          "displayId": "fe44cba6bc54"
+        }
+      ]
+    },
+    {
+      "id": "7ce3aa5de2a54bbffbad5a9a039a7a7e30015718",
+      "displayId": "7ce3aa5de2a5",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682561000000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "7ce3aa5de2a54bbffbad5a9a039a7a7e30015718",
+          "displayId": "7ce3aa5de2a5"
+        }
+      ]
+    },
+    {
+      "id": "cb27724dfef8d843f4ccdc0de0c7ab005ac5cc25",
+      "displayId": "cb27724dfef8",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682560250000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "cb27724dfef8d843f4ccdc0de0c7ab005ac5cc25",
+          "displayId": "cb27724dfef8"
+        }
+      ]
+    },
+    {
+      "id": "f6735f62f07926b125e866cb28e53c264d706e9a",
+      "displayId": "f6735f62f079",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682559991000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "f6735f62f07926b125e866cb28e53c264d706e9a",
+          "displayId": "f6735f62f079"
+        }
+      ]
+    },
+    {
+      "id": "a57232341c8f9414f32569c507f2436bbf1392c9",
+      "displayId": "a57232341c8f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682522564000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682522564000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "a57232341c8f9414f32569c507f2436bbf1392c9",
+          "displayId": "a57232341c8f"
+        }
+      ]
+    },
+    {
+      "id": "e152a55f8b300d8c1e61f9e499084a37542862d1",
+      "displayId": "e152a55f8b30",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682499773000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682499773000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "e152a55f8b300d8c1e61f9e499084a37542862d1",
+          "displayId": "e152a55f8b30"
+        }
+      ]
+    },
+    {
+      "id": "4b97d7fe81d9b561454e6cec66bf8d91852b4487",
+      "displayId": "4b97d7fe81d9",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682496255000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682496255000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "4b97d7fe81d9b561454e6cec66bf8d91852b4487",
+          "displayId": "4b97d7fe81d9"
+        }
+      ]
+    },
+    {
+      "id": "c584a9692028c0f067be6ea429dec0d4a461f7c3",
+      "displayId": "c584a9692028",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682478642000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682478642000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "c584a9692028c0f067be6ea429dec0d4a461f7c3",
+          "displayId": "c584a9692028"
+        }
+      ]
+    },
+    {
+      "id": "c90060fd7b4001a89d4d87e1330b59210236b369",
+      "displayId": "c90060fd7b40",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682403060000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682403060000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2986] - CCBA data feed add retry to sftp",
+      "parents": [
+        {
+          "id": "c90060fd7b4001a89d4d87e1330b59210236b369",
+          "displayId": "c90060fd7b40"
+        }
+      ]
+    },
+    {
+      "id": "6aebb53f9ebdbf0c8c40e857f546478e09b09c10",
+      "displayId": "6aebb53f9ebd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1682347176000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1682347176000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-2972] - CCBA data feed notify when failed",
+      "parents": [
+        {
+          "id": "6aebb53f9ebdbf0c8c40e857f546478e09b09c10",
+          "displayId": "6aebb53f9ebd"
+        }
+      ]
+    }
+  ],
+  "size": 46
+}

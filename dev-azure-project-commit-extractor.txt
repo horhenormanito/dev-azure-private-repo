@@ -1,0 +1,194 @@
+const repoListUrl = 'https://dev.azure.com/{param1}/{param2}/_apis/git/repositories';
+const accessToken = '{param3}';
+
+fetch(repoListUrl,{
+  method: 'GET',
+  headers: {
+    'Authorization': 'Bearer {accessToken}',
+    'Accept': 'application/json'
+  }
+})
+.then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+})
+.then(data => {
+    console.log('API response:', data);
+	
+	// Extract slug names
+	const slugNames = extractSlugNames(data);
+	
+	console.log('Project slugs extract completed! ', slugNames);
+	
+	// Iterate over each slug name using forEach
+	slugNames.forEach(slugName => {
+		retrieveEachSlugCommit(slugName);
+	});
+})
+.catch(error => {
+    console.error('Error during fetch operation:', error);
+});
+
+function extractSlugNames(jsonData) {
+  if (!jsonData || !jsonData.value || !Array.isArray(jsonData.value)) {
+    console.error('Invalid JSON data format.');
+    return [];
+  }
+
+  // Extract the "slug" property for each entry
+  const slugNames = jsonData.value.map(entry => entry.name);
+
+  return slugNames;
+}
+
+function retrieveEachSlugCommit(slugName){
+	const apiUrl = 'https://dev.azure.com/{param1}/{param2}/_apis/git/repositories/' + slugName + '/commits?searchCriteria.$top=1000&searchCriteria.author={param4}&api-version=5.1';
+	// Basic GET request
+	fetch(apiUrl,{
+	  method: 'GET',
+	  headers: {
+		'Authorization': 'Bearer {accessToken}',
+		'Accept': 'application/json'
+	  }
+	})
+	.then(response => {
+		if (!response.ok) {
+		  throw new Error('Network response was not ok');
+		}
+		return response.json();
+	})
+	.then(data => {
+		const commitSize = data.count;
+		if (commitSize > 0){
+			console.log('retrieveEachSlugCommit ... ' + slugName + ' datasize: ', data);
+			console.log('Project slug, ' + slugName + ' commit extract starting....');
+			downloadJsonAsText(data, slugName);
+			console.log('Project slugs ' + slugName + ' commit extract completed!');
+		}
+	})
+	.catch(error => {
+		console.error('Error during fetch operation:', error);
+	});
+}
+
+
+function downloadJsonAsText(jsonData, fileName) {
+
+  console.log('downloading json as text.... ');
+ 
+  let transformedData = transformJson(jsonData);
+  
+  console.log('transformedData: ' + transformedData);
+  
+  // Convert JSON to a string
+  const jsonString = JSON.stringify(transformedData, null, 2); // Use 2 spaces for indentation
+
+  // Create a Blob object
+  const blob = new Blob([jsonString], { type: 'application/json' });
+
+  // Create a download link
+  const link = document.createElement('a');
+  link.href = URL.createObjectURL(blob);
+  link.download = fileName + '.json';
+
+  // Append the link to the document
+  document.body.appendChild(link);
+
+  // Trigger the download
+  link.click();
+
+  // Remove the link from the document
+  document.body.removeChild(link);
+}
+
+
+/////////////////// transform json
+
+// Function to transform the JSON
+function transformJson(originalJson) {
+  const anonymizeEmail = email => email.replace(/(.{3})(.*)(?=@)/, (match, p1, p2) => p1 + p2.replace(/./g, '*'));
+  const anonymizeName = name => name.length > 3 ? name.substring(0, 3) + name.substring(3).replace(/./g, '*') : name;
+
+  const newJson = {
+    "values": originalJson.value.map(commit => ({
+      "id": commit.commitId,
+      "displayId": commit.commitId.substring(0, 12),
+      "author": {
+        "name": anonymizeName(commit.author.name),
+        "emailAddress": anonymizeEmail(commit.author.email),
+        "active": true,
+        "displayName": anonymizeName(commit.author.name),
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": anonymizeHref(commit.url)
+            }
+          ]
+        }
+      },
+      "authorTimestamp": convertToTimestamp(commit.author.date),
+      "committer": {
+        "name": anonymizeName(commit.committer.name),
+        "emailAddress": anonymizeEmail(commit.committer.email),
+        "active": true,
+        "displayName": anonymizeName(commit.committer.name),
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": anonymizeHref(commit.url)
+            }
+          ]
+        }
+      },
+      "committerTimestamp": convertToTimestamp(commit.committer.date),
+      "message": commit.comment,
+      "parents": [
+        {
+          "id": commit.commitId,
+          "displayId": commit.commitId.substring(0, 12)
+        }
+      ]
+    })),
+    "size": originalJson.value.length
+  };
+
+  return newJson;
+}
+
+function anonymizeHref(href) {
+  const url = new URL(href);
+  const base = url.origin;
+  const parts = url.pathname.split('/');
+
+  const specialSegments = ['_apis', 'git', 'repositories', 'commits'];
+  const anonymizedParts = parts.map((part, index) => {
+    // Keep specific segments intact
+    if (specialSegments.includes(part)) {
+      return part;
+    }
+
+    // Mask segments that look like UUIDs or long identifiers
+    if (part.length > 8) {
+      return '********';
+    } else if (part.length > 0) {
+      // Mask other segments
+      return '***';
+    }
+    return part;
+  });
+
+  return `${base}${anonymizedParts.join('/')}`;
+}
+
+// Function to convert date to timestamp
+function convertToTimestamp(dateStr) {
+  return new Date(dateStr).getTime();
+}

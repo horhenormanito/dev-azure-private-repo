@@ -1,0 +1,770 @@
+{
+  "values": [
+    {
+      "id": "8da2b6b2c5df7a1f2d7181ae4d2ca8781e5304ac",
+      "displayId": "8da2b6b2c5df",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718894307000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719481429000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3517] - [Converted]SME BYO MYS Unable to approve referral in P400",
+      "parents": [
+        {
+          "id": "8da2b6b2c5df7a1f2d7181ae4d2ca8781e5304ac",
+          "displayId": "8da2b6b2c5df"
+        }
+      ]
+    },
+    {
+      "id": "45b53346b233ad235cf7183a9b524c3dadd2f8e3",
+      "displayId": "45b53346b233",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718894307000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719372462000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3517] - [Converted]SME BYO MYS Unable to approve referral in P400",
+      "parents": [
+        {
+          "id": "45b53346b233ad235cf7183a9b524c3dadd2f8e3",
+          "displayId": "45b53346b233"
+        }
+      ]
+    },
+    {
+      "id": "5834c9681a809efff37bb019fc30fc402561159e",
+      "displayId": "5834c9681a80",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718894307000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719372414000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3517] - [Converted]SME BYO MYS Unable to approve referral in P400",
+      "parents": [
+        {
+          "id": "5834c9681a809efff37bb019fc30fc402561159e",
+          "displayId": "5834c9681a80"
+        }
+      ]
+    },
+    {
+      "id": "2e0ff7d979b6f8ea085cde80469216ee14caa94c",
+      "displayId": "2e0ff7d979b6",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1718894307000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718894307000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3517] - [Converted]SME BYO MYS Unable to approve referral in P400",
+      "parents": [
+        {
+          "id": "2e0ff7d979b6f8ea085cde80469216ee14caa94c",
+          "displayId": "2e0ff7d979b6"
+        }
+      ]
+    },
+    {
+      "id": "7745b138ddbc01c9d313f4747cc277912d219b2c",
+      "displayId": "7745b138ddbc",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1713484667000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "7745b138ddbc01c9d313f4747cc277912d219b2c",
+          "displayId": "7745b138ddbc"
+        }
+      ]
+    },
+    {
+      "id": "d59e34ca709a68e0cd7395b330c117d77dedbc6f",
+      "displayId": "d59e34ca709a",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1712880466000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "d59e34ca709a68e0cd7395b330c117d77dedbc6f",
+          "displayId": "d59e34ca709a"
+        }
+      ]
+    },
+    {
+      "id": "e0d48b8cca23033b11d44480406c91aa9198513a",
+      "displayId": "e0d48b8cca23",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1712797819000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "e0d48b8cca23033b11d44480406c91aa9198513a",
+          "displayId": "e0d48b8cca23"
+        }
+      ]
+    },
+    {
+      "id": "1309a7f23cad634c1deef7b1cafed1695c3dd0e7",
+      "displayId": "1309a7f23cad",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1708992462000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "1309a7f23cad634c1deef7b1cafed1695c3dd0e7",
+          "displayId": "1309a7f23cad"
+        }
+      ]
+    },
+    {
+      "id": "5f85122bec0d52ff8bf15785d8b25dd69d825906",
+      "displayId": "5f85122bec0d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1708992416000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "5f85122bec0d52ff8bf15785d8b25dd69d825906",
+          "displayId": "5f85122bec0d"
+        }
+      ]
+    },
+    {
+      "id": "bdac01e305ff6c00a9063ea0d54caf7186fead5d",
+      "displayId": "bdac01e305ff",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1708924886000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1708924886000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3390] - Any error (i.e policy rate) in BYO and angular won't show up error popup, user can able to continue to next page",
+      "parents": [
+        {
+          "id": "bdac01e305ff6c00a9063ea0d54caf7186fead5d",
+          "displayId": "bdac01e305ff"
+        }
+      ]
+    },
+    {
+      "id": "da12a06540b8562be58c1fce652778d2e0fe85af",
+      "displayId": "da12a06540b8",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1698119987000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1698119987000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3218] - Add JHR as a country code",
+      "parents": [
+        {
+          "id": "da12a06540b8562be58c1fce652778d2e0fe85af",
+          "displayId": "da12a06540b8"
+        }
+      ]
+    },
+    {
+      "id": "f6385afe7a64eafd957b581ddf2aa31b27b9277b",
+      "displayId": "f6385afe7a64",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1694745147000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "f6385afe7a64eafd957b581ddf2aa31b27b9277b",
+          "displayId": "f6385afe7a64"
+        }
+      ]
+    },
+    {
+      "id": "cd62de5f639cc692e9af4266e454747dbd8c99a9",
+      "displayId": "cd62de5f639c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1694393029000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "cd62de5f639cc692e9af4266e454747dbd8c99a9",
+          "displayId": "cd62de5f639c"
+        }
+      ]
+    },
+    {
+      "id": "b67bf008fca4d95efdcebde65686b7691a365b88",
+      "displayId": "b67bf008fca4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1693874522000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "b67bf008fca4d95efdcebde65686b7691a365b88",
+          "displayId": "b67bf008fca4"
+        }
+      ]
+    },
+    {
+      "id": "105ce02f46b8b8bd5ea6389036e2ec849a96d565",
+      "displayId": "105ce02f46b8",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1693532481000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "105ce02f46b8b8bd5ea6389036e2ec849a96d565",
+          "displayId": "105ce02f46b8"
+        }
+      ]
+    },
+    {
+      "id": "e8a2b4b7951c0d77324af6599bf28ff747bd6469",
+      "displayId": "e8a2b4b7951c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1693532438000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "e8a2b4b7951c0d77324af6599bf28ff747bd6469",
+          "displayId": "e8a2b4b7951c"
+        }
+      ]
+    },
+    {
+      "id": "f31d5d014eaea88ec1492e8803afd73a1baa30dc",
+      "displayId": "f31d5d014eae",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1693470076000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1693470076000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3112] - Document Download Security Issue",
+      "parents": [
+        {
+          "id": "f31d5d014eaea88ec1492e8803afd73a1baa30dc",
+          "displayId": "f31d5d014eae"
+        }
+      ]
+    }
+  ],
+  "size": 17
+}

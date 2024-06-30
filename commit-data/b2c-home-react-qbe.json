@@ -1,0 +1,1085 @@
+{
+  "values": [
+    {
+      "id": "2d815594f3375544a3383315289b093972d64360",
+      "displayId": "2d815594f337",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695954172000,
+      "message": "ANH-5944 - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "2d815594f3375544a3383315289b093972d64360",
+          "displayId": "2d815594f337"
+        }
+      ]
+    },
+    {
+      "id": "03d2f1c40aed5908b1384800cb032c764cc3b2c6",
+      "displayId": "03d2f1c40aed",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695613729000,
+      "message": "ANH-5944 - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "03d2f1c40aed5908b1384800cb032c764cc3b2c6",
+          "displayId": "03d2f1c40aed"
+        }
+      ]
+    },
+    {
+      "id": "ffc8c576a67162092d16f043339d9906acf0cc65",
+      "displayId": "ffc8c576a671",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695346572000,
+      "message": "ANH-5944 - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "ffc8c576a67162092d16f043339d9906acf0cc65",
+          "displayId": "ffc8c576a671"
+        }
+      ]
+    },
+    {
+      "id": "6ccc537e3aaa5b74553721d889fa1f4fe6c41489",
+      "displayId": "6ccc537e3aaa",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695289711000,
+      "message": "ANH-5944 - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "6ccc537e3aaa5b74553721d889fa1f4fe6c41489",
+          "displayId": "6ccc537e3aaa"
+        }
+      ]
+    },
+    {
+      "id": "8948a78fb473f2b628b5ddbeaef9758b5980a682",
+      "displayId": "8948a78fb473",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695193541000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695193541000,
+      "message": "Merge branch 'master' of https://bitbucket.corp.qbe.com/scm/apq/b2c-home-react-qbe",
+      "parents": [
+        {
+          "id": "8948a78fb473f2b628b5ddbeaef9758b5980a682",
+          "displayId": "8948a78fb473"
+        }
+      ]
+    },
+    {
+      "id": "617f28a37ef68dac1ebde7656d568028b81a7b13",
+      "displayId": "617f28a37ef6",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695193441000,
+      "message": "ANH-5944 - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "617f28a37ef68dac1ebde7656d568028b81a7b13",
+          "displayId": "617f28a37ef6"
+        }
+      ]
+    },
+    {
+      "id": "37fcc1a6d416e0e26830b0d756c60996d776be43",
+      "displayId": "37fcc1a6d416",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1695192424000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1695192424000,
+      "message": "Qnect Performance Tuning & Modernization - [ANH-5944] - RITM2537710 please upload the updated version of our home insurance brochure into our B2C home website",
+      "parents": [
+        {
+          "id": "37fcc1a6d416e0e26830b0d756c60996d776be43",
+          "displayId": "37fcc1a6d416"
+        }
+      ]
+    },
+    {
+      "id": "ff153b9d0a397f6460a53d74cbbef92d99fbfafe",
+      "displayId": "ff153b9d0a39",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689039509000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1693549456000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "ff153b9d0a397f6460a53d74cbbef92d99fbfafe",
+          "displayId": "ff153b9d0a39"
+        }
+      ]
+    },
+    {
+      "id": "7f359a4f670ff9949647a7271e0af15da8415558",
+      "displayId": "7f359a4f670f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689039509000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1692861834000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "7f359a4f670ff9949647a7271e0af15da8415558",
+          "displayId": "7f359a4f670f"
+        }
+      ]
+    },
+    {
+      "id": "41c67295974b8d7ca45b324a0119ab87897a634b",
+      "displayId": "41c67295974b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689039509000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1690248922000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "41c67295974b8d7ca45b324a0119ab87897a634b",
+          "displayId": "41c67295974b"
+        }
+      ]
+    },
+    {
+      "id": "359dcf6ef0f4202ca52ece78f1d75d281704a4ec",
+      "displayId": "359dcf6ef0f4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686811627000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689888172000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "359dcf6ef0f4202ca52ece78f1d75d281704a4ec",
+          "displayId": "359dcf6ef0f4"
+        }
+      ]
+    },
+    {
+      "id": "ab8861961dc71e73bf0d1de578862bb51587f3d8",
+      "displayId": "ab8861961dc7",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688399477000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689888166000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "ab8861961dc71e73bf0d1de578862bb51587f3d8",
+          "displayId": "ab8861961dc7"
+        }
+      ]
+    },
+    {
+      "id": "9e53aecd1caeac3462aaccf5250c1f11dbf9f84a",
+      "displayId": "9e53aecd1cae",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686811627000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689495293000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "9e53aecd1caeac3462aaccf5250c1f11dbf9f84a",
+          "displayId": "9e53aecd1cae"
+        }
+      ]
+    },
+    {
+      "id": "d89b5a52d69e4af529539f6fe0fe2b42f6a24ec9",
+      "displayId": "d89b5a52d69e",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688399477000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689495282000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "d89b5a52d69e4af529539f6fe0fe2b42f6a24ec9",
+          "displayId": "d89b5a52d69e"
+        }
+      ]
+    },
+    {
+      "id": "ea1ed98eeadf03fcaf8b32b1dac491b603bf7d33",
+      "displayId": "ea1ed98eeadf",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689039509000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689214456000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "ea1ed98eeadf03fcaf8b32b1dac491b603bf7d33",
+          "displayId": "ea1ed98eeadf"
+        }
+      ]
+    },
+    {
+      "id": "4087b46c77f084352dc9f6fd7e17fd09c85ff581",
+      "displayId": "4087b46c77f0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689168812000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689168812000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "4087b46c77f084352dc9f6fd7e17fd09c85ff581",
+          "displayId": "4087b46c77f0"
+        }
+      ]
+    },
+    {
+      "id": "174bc069b4b490df8856d7b0ddacb6666f7faf35",
+      "displayId": "174bc069b4b4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1689039509000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689039509000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3078] - .IncorrectResultSizeDataAccessException: query did not return a unique result:",
+      "parents": [
+        {
+          "id": "174bc069b4b490df8856d7b0ddacb6666f7faf35",
+          "displayId": "174bc069b4b4"
+        }
+      ]
+    },
+    {
+      "id": "6abfb584f930829dc6ca663893d445f3bc2e685d",
+      "displayId": "6abfb584f930",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686811627000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688992900000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "6abfb584f930829dc6ca663893d445f3bc2e685d",
+          "displayId": "6abfb584f930"
+        }
+      ]
+    },
+    {
+      "id": "9f3855fde4991e10e1ba2b3ea0d1c1140befeeac",
+      "displayId": "9f3855fde499",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688399477000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688632945000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "9f3855fde4991e10e1ba2b3ea0d1c1140befeeac",
+          "displayId": "9f3855fde499"
+        }
+      ]
+    },
+    {
+      "id": "ca6fb3e337c156aa31854cb40f43ca58350afc9a",
+      "displayId": "ca6fb3e337c1",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688399477000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688447089000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "ca6fb3e337c156aa31854cb40f43ca58350afc9a",
+          "displayId": "ca6fb3e337c1"
+        }
+      ]
+    },
+    {
+      "id": "9e9d70b9aefe9d9eaa2f2899291c1437bd09841f",
+      "displayId": "9e9d70b9aefe",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688435430000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688435430000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "9e9d70b9aefe9d9eaa2f2899291c1437bd09841f",
+          "displayId": "9e9d70b9aefe"
+        }
+      ]
+    },
+    {
+      "id": "ca07608d92d0fe3d0c7570b61cc1e044274d18e8",
+      "displayId": "ca07608d92d0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1688399477000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688399477000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3071] - b2c sgp street number > 10 chars long will throw an error",
+      "parents": [
+        {
+          "id": "ca07608d92d0fe3d0c7570b61cc1e044274d18e8",
+          "displayId": "ca07608d92d0"
+        }
+      ]
+    },
+    {
+      "id": "89e6ad195e804a669c272b53f505e57f5d7a809e",
+      "displayId": "89e6ad195e80",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686811627000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1687138495000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "89e6ad195e804a669c272b53f505e57f5d7a809e",
+          "displayId": "89e6ad195e80"
+        }
+      ]
+    },
+    {
+      "id": "ad424e7483d08b68694429e7eb361730396b5415",
+      "displayId": "ad424e7483d0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686811627000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1686811627000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "ad424e7483d08b68694429e7eb361730396b5415",
+          "displayId": "ad424e7483d0"
+        }
+      ]
+    }
+  ],
+  "size": 24
+}

@@ -1,0 +1,455 @@
+{
+  "values": [
+    {
+      "id": "acb2306e0bdcf4120f9144029d9f935cb7dbf183",
+      "displayId": "acb2306e0bdc",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686282482000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689911199000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "acb2306e0bdcf4120f9144029d9f935cb7dbf183",
+          "displayId": "acb2306e0bdc"
+        }
+      ]
+    },
+    {
+      "id": "ec90f56b3cc17dbf7057c94604943f01564873fe",
+      "displayId": "ec90f56b3cc1",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1687480117000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689911192000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3047] - b2c travel sgp needs libraries locked",
+      "parents": [
+        {
+          "id": "ec90f56b3cc17dbf7057c94604943f01564873fe",
+          "displayId": "ec90f56b3cc1"
+        }
+      ]
+    },
+    {
+      "id": "669ea42187637f2986fd55f00a32c91736b4f744",
+      "displayId": "669ea4218763",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686282482000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689495435000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "669ea42187637f2986fd55f00a32c91736b4f744",
+          "displayId": "669ea4218763"
+        }
+      ]
+    },
+    {
+      "id": "eacde63d50629ea07bb2bf0a30ceff2154b04e09",
+      "displayId": "eacde63d5062",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1687480117000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1689495426000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3047] - b2c travel sgp needs libraries locked",
+      "parents": [
+        {
+          "id": "eacde63d50629ea07bb2bf0a30ceff2154b04e09",
+          "displayId": "eacde63d5062"
+        }
+      ]
+    },
+    {
+      "id": "526fde1095dd66fd3f2af879aa780f1cebce4d99",
+      "displayId": "526fde1095dd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686282482000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688993296000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "526fde1095dd66fd3f2af879aa780f1cebce4d99",
+          "displayId": "526fde1095dd"
+        }
+      ]
+    },
+    {
+      "id": "7f7bbc3dd055a974f5899023ecce53fcbcd2a3d4",
+      "displayId": "7f7bbc3dd055",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1687480117000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1688632844000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3047] - b2c travel sgp needs libraries locked",
+      "parents": [
+        {
+          "id": "7f7bbc3dd055a974f5899023ecce53fcbcd2a3d4",
+          "displayId": "7f7bbc3dd055"
+        }
+      ]
+    },
+    {
+      "id": "dcfc5515a99f1265790fbd3b16a62f729be7fdcb",
+      "displayId": "dcfc5515a99f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1687480117000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1687488805000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3047] - b2c travel sgp needs libraries locked",
+      "parents": [
+        {
+          "id": "dcfc5515a99f1265790fbd3b16a62f729be7fdcb",
+          "displayId": "dcfc5515a99f"
+        }
+      ]
+    },
+    {
+      "id": "a6186a80b6cec477b9b63a3353ba1ae185360293",
+      "displayId": "a6186a80b6ce",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1687480117000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1687480117000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3047] - b2c travel sgp needs libraries locked",
+      "parents": [
+        {
+          "id": "a6186a80b6cec477b9b63a3353ba1ae185360293",
+          "displayId": "a6186a80b6ce"
+        }
+      ]
+    },
+    {
+      "id": "cd7c05caf18b219180754e9ecdd64a6273211c6d",
+      "displayId": "cd7c05caf18b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686282482000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1687138022000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "cd7c05caf18b219180754e9ecdd64a6273211c6d",
+          "displayId": "cd7c05caf18b"
+        }
+      ]
+    },
+    {
+      "id": "e7a0bdd1801a6a0fa4a22b18c350d48be06be8cb",
+      "displayId": "e7a0bdd1801a",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1686282482000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1686282482000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3025] - B2C UtilController - generateUuid 409",
+      "parents": [
+        {
+          "id": "e7a0bdd1801a6a0fa4a22b18c350d48be06be8cb",
+          "displayId": "e7a0bdd1801a"
+        }
+      ]
+    }
+  ],
+  "size": 10
+}

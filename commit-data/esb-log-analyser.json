@@ -1,0 +1,635 @@
+{
+  "values": [
+    {
+      "id": "b5eeadebe00cf3829ead5f575e2e387b2532d1fb",
+      "displayId": "b5eeadebe00c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1717663252000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1718701153000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3537] - esb-log analyser and mask PII data",
+      "parents": [
+        {
+          "id": "b5eeadebe00cf3829ead5f575e2e387b2532d1fb",
+          "displayId": "b5eeadebe00c"
+        }
+      ]
+    },
+    {
+      "id": "334cf8670c37bdf18292c6f662bda2c9d342208a",
+      "displayId": "334cf8670c37",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1717663252000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1717731221000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3537] - esb-log analyser and mask PII data",
+      "parents": [
+        {
+          "id": "334cf8670c37bdf18292c6f662bda2c9d342208a",
+          "displayId": "334cf8670c37"
+        }
+      ]
+    },
+    {
+      "id": "21ae0fed86f0d9331e28092455008b93857c113c",
+      "displayId": "21ae0fed86f0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1717730612000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1717730612000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3537] - esb-log analyser and mask PII data",
+      "parents": [
+        {
+          "id": "21ae0fed86f0d9331e28092455008b93857c113c",
+          "displayId": "21ae0fed86f0"
+        }
+      ]
+    },
+    {
+      "id": "0f7d097352c0984d84e26f12e9940e7ccfa1b736",
+      "displayId": "0f7d097352c0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1717663252000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1717663252000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3537] - esb-log analyser and mask PII data",
+      "parents": [
+        {
+          "id": "0f7d097352c0984d84e26f12e9940e7ccfa1b736",
+          "displayId": "0f7d097352c0"
+        }
+      ]
+    },
+    {
+      "id": "4b79c91ad0ed8a9d4aa0b74bf117b80e4886c189",
+      "displayId": "4b79c91ad0ed",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714358735000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1715302007000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "4b79c91ad0ed8a9d4aa0b74bf117b80e4886c189",
+          "displayId": "4b79c91ad0ed"
+        }
+      ]
+    },
+    {
+      "id": "f2373c01a3af86d2d8c49becd5f0f34fdf0c5eb9",
+      "displayId": "f2373c01a3af",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714624872000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1715302007000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "f2373c01a3af86d2d8c49becd5f0f34fdf0c5eb9",
+          "displayId": "f2373c01a3af"
+        }
+      ]
+    },
+    {
+      "id": "be155554153c99a424bceae3acb0984c47fe7145",
+      "displayId": "be155554153c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714624872000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714625013000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "be155554153c99a424bceae3acb0984c47fe7145",
+          "displayId": "be155554153c"
+        }
+      ]
+    },
+    {
+      "id": "aac3410a36213df0a247d78256d1c08c2d7dd75f",
+      "displayId": "aac3410a3621",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714624872000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714624951000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "aac3410a36213df0a247d78256d1c08c2d7dd75f",
+          "displayId": "aac3410a3621"
+        }
+      ]
+    },
+    {
+      "id": "59e3983a706b6abc03050187560d85617f6206a0",
+      "displayId": "59e3983a706b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714624872000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714624872000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "59e3983a706b6abc03050187560d85617f6206a0",
+          "displayId": "59e3983a706b"
+        }
+      ]
+    },
+    {
+      "id": "305ab505750cfd645557af5a26dbb9f9f87d346f",
+      "displayId": "305ab505750c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714358735000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714449920000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "305ab505750cfd645557af5a26dbb9f9f87d346f",
+          "displayId": "305ab505750c"
+        }
+      ]
+    },
+    {
+      "id": "53848ef25f9310a58db1642d39e939e522a17c45",
+      "displayId": "53848ef25f93",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714358735000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714449770000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "53848ef25f9310a58db1642d39e939e522a17c45",
+          "displayId": "53848ef25f93"
+        }
+      ]
+    },
+    {
+      "id": "b50e7b16e0202b373c06e74a6739acfddc6d0ceb",
+      "displayId": "b50e7b16e020",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714358735000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714358735000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3480] - ESB - Log analyser is locking the database",
+      "parents": [
+        {
+          "id": "b50e7b16e0202b373c06e74a6739acfddc6d0ceb",
+          "displayId": "b50e7b16e020"
+        }
+      ]
+    },
+    {
+      "id": "2723d0f8ef0cd905697939f09e2dcf1d8b0c8fe2",
+      "displayId": "2723d0f8ef0c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714097326000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714097326000,
+      "message": "Revert \"test log analyser in dev\"",
+      "parents": [
+        {
+          "id": "2723d0f8ef0cd905697939f09e2dcf1d8b0c8fe2",
+          "displayId": "2723d0f8ef0c"
+        }
+      ]
+    },
+    {
+      "id": "1088a7bad73de7f7bdaee9d0a777549cce303257",
+      "displayId": "1088a7bad73d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1714026679000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1714026679000,
+      "message": "test log analyser in dev",
+      "parents": [
+        {
+          "id": "1088a7bad73de7f7bdaee9d0a777549cce303257",
+          "displayId": "1088a7bad73d"
+        }
+      ]
+    }
+  ],
+  "size": 14
+}

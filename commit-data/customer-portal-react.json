@@ -1,0 +1,995 @@
+{
+  "values": [
+    {
+      "id": "6ef9f8abc9f1eaef4967b92e765b00bb7790a16a",
+      "displayId": "6ef9f8abc9f1",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121069000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1713484313000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "6ef9f8abc9f1eaef4967b92e765b00bb7790a16a",
+          "displayId": "6ef9f8abc9f1"
+        }
+      ]
+    },
+    {
+      "id": "fb449781615d02243c705446752b129233ee02d8",
+      "displayId": "fb449781615d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121069000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1712880243000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "fb449781615d02243c705446752b129233ee02d8",
+          "displayId": "fb449781615d"
+        }
+      ]
+    },
+    {
+      "id": "b6bceb6b18c4047b6e3b16ecb4b0718f3cc24f1a",
+      "displayId": "b6bceb6b18c4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121069000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1712282018000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "b6bceb6b18c4047b6e3b16ecb4b0718f3cc24f1a",
+          "displayId": "b6bceb6b18c4"
+        }
+      ]
+    },
+    {
+      "id": "2d9138f9cb18f83a64f5b3b838825cae8a731cff",
+      "displayId": "2d9138f9cb18",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121069000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1710135809000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "2d9138f9cb18f83a64f5b3b838825cae8a731cff",
+          "displayId": "2d9138f9cb18"
+        }
+      ]
+    },
+    {
+      "id": "fa2b422aafb64648948d13ea258e3e9f84ae7486",
+      "displayId": "fa2b422aafb6",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121069000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1710121069000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "fa2b422aafb64648948d13ea258e3e9f84ae7486",
+          "displayId": "fa2b422aafb6"
+        }
+      ]
+    },
+    {
+      "id": "4915c6312775f335eaf5b5020fd5a482cf01dd28",
+      "displayId": "4915c6312775",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710121028000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1710121028000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js\"",
+      "parents": [
+        {
+          "id": "4915c6312775f335eaf5b5020fd5a482cf01dd28",
+          "displayId": "4915c6312775"
+        }
+      ]
+    },
+    {
+      "id": "434f6c08a04bff96aa080c2346cd867c335c6661",
+      "displayId": "434f6c08a04b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1710118265000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1710118265000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3249] - b2c log errors - CustomerPortalController - React Error online-payment-process.js",
+      "parents": [
+        {
+          "id": "434f6c08a04bff96aa080c2346cd867c335c6661",
+          "displayId": "434f6c08a04b"
+        }
+      ]
+    },
+    {
+      "id": "12bf3371f66e2bc4d021efc0e4efad3e43802005",
+      "displayId": "12bf3371f66e",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1709867660000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1709867660000,
+      "message": "investigate infinite redelivery of singpass esb",
+      "parents": [
+        {
+          "id": "12bf3371f66e2bc4d021efc0e4efad3e43802005",
+          "displayId": "12bf3371f66e"
+        }
+      ]
+    },
+    {
+      "id": "bca18badb3420146259bfe5e6da6955a7c9fb0b3",
+      "displayId": "bca18badb342",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1706147384000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1706147384000,
+      "message": "Revert \"PERF - for testing only on live dev\"",
+      "parents": [
+        {
+          "id": "bca18badb3420146259bfe5e6da6955a7c9fb0b3",
+          "displayId": "bca18badb342"
+        }
+      ]
+    },
+    {
+      "id": "f48cc2f600b2ce25876fd628169f5440f7207152",
+      "displayId": "f48cc2f600b2",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1706146440000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1706146440000,
+      "message": "PERF - for testing only on live dev",
+      "parents": [
+        {
+          "id": "f48cc2f600b2ce25876fd628169f5440f7207152",
+          "displayId": "f48cc2f600b2"
+        }
+      ]
+    },
+    {
+      "id": "d04b6648d57a16468b04fd69e17a5ad2d561b617",
+      "displayId": "d04b6648d57a",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1706135418000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1706135418000,
+      "message": "Revert \"PERF - for testing only on live dev\"",
+      "parents": [
+        {
+          "id": "d04b6648d57a16468b04fd69e17a5ad2d561b617",
+          "displayId": "d04b6648d57a"
+        }
+      ]
+    },
+    {
+      "id": "5774e5187b839fb4c6ff0fa8ac5ee80776754c91",
+      "displayId": "5774e5187b83",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1706133671000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1706133671000,
+      "message": "PERF - for testing only on live dev",
+      "parents": [
+        {
+          "id": "5774e5187b839fb4c6ff0fa8ac5ee80776754c91",
+          "displayId": "5774e5187b83"
+        }
+      ]
+    },
+    {
+      "id": "2edc3b861ca296018e64819986de2f28849f66d2",
+      "displayId": "2edc3b861ca2",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1706097912000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1706097912000,
+      "message": "PERF - for testing only in live dev",
+      "parents": [
+        {
+          "id": "2edc3b861ca296018e64819986de2f28849f66d2",
+          "displayId": "2edc3b861ca2"
+        }
+      ]
+    },
+    {
+      "id": "9bf1af57504c545caf941c2e0a199b84d57a46ad",
+      "displayId": "9bf1af57504c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1705552749000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1705552749000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3272] - B2C Payment email alerting - B0102433 - Likley auto renewal auth.. amount 0\"",
+      "parents": [
+        {
+          "id": "9bf1af57504c545caf941c2e0a199b84d57a46ad",
+          "displayId": "9bf1af57504c"
+        }
+      ]
+    },
+    {
+      "id": "d98aaab3ff063b636e87cb62d5aae81da390881c",
+      "displayId": "d98aaab3ff06",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1704653178000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1705545169000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3272] - B2C Payment email alerting - B0102433 - Likley auto renewal auth.. amount 0",
+      "parents": [
+        {
+          "id": "d98aaab3ff063b636e87cb62d5aae81da390881c",
+          "displayId": "d98aaab3ff06"
+        }
+      ]
+    },
+    {
+      "id": "590dc527a2979055f4b1616b531e9a7f91d11850",
+      "displayId": "590dc527a297",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1704653178000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1704699333000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3272] - B2C Payment email alerting - B0102433 - Likley auto renewal auth.. amount 0",
+      "parents": [
+        {
+          "id": "590dc527a2979055f4b1616b531e9a7f91d11850",
+          "displayId": "590dc527a297"
+        }
+      ]
+    },
+    {
+      "id": "c9468e303b0b78e43cd50fcbd20372b30b81dc21",
+      "displayId": "c9468e303b0b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1704679348000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1704679348000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3272] - B2C Payment email alerting - B0102433 - Likley auto renewal auth.. amount 0",
+      "parents": [
+        {
+          "id": "c9468e303b0b78e43cd50fcbd20372b30b81dc21",
+          "displayId": "c9468e303b0b"
+        }
+      ]
+    },
+    {
+      "id": "f69d7819937220660a3c5e9e3b2478be513e7645",
+      "displayId": "f69d78199372",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1704653178000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1704653178000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3272] - B2C Payment email alerting - B0102433 - Likley auto renewal auth.. amount 0",
+      "parents": [
+        {
+          "id": "f69d7819937220660a3c5e9e3b2478be513e7645",
+          "displayId": "f69d78199372"
+        }
+      ]
+    },
+    {
+      "id": "45bc38b83eb4f1681526c8969cf653dbf600dad1",
+      "displayId": "45bc38b83eb4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1697601037000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1697601037000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3119] - Activate the payment option and policy schedule issuance for HASE customer in Customer Portal\"",
+      "parents": [
+        {
+          "id": "45bc38b83eb4f1681526c8969cf653dbf600dad1",
+          "displayId": "45bc38b83eb4"
+        }
+      ]
+    },
+    {
+      "id": "0a7211f07bc94b587a5a790c55f6471ae6f54a20",
+      "displayId": "0a7211f07bc9",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1691476267000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1691655216000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3119] - Activate the payment option and policy schedule issuance for HASE customer in Customer Portal",
+      "parents": [
+        {
+          "id": "0a7211f07bc94b587a5a790c55f6471ae6f54a20",
+          "displayId": "0a7211f07bc9"
+        }
+      ]
+    },
+    {
+      "id": "03192ab1259d260401bcc86dfec759a55dfdd67b",
+      "displayId": "03192ab1259d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1691654672000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1691654672000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3119] - Activate the payment option and policy schedule issuance for HASE customer in Customer Portal",
+      "parents": [
+        {
+          "id": "03192ab1259d260401bcc86dfec759a55dfdd67b",
+          "displayId": "03192ab1259d"
+        }
+      ]
+    },
+    {
+      "id": "515329d6eeef60772c4757f745e71013495765e2",
+      "displayId": "515329d6eeef",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1691476267000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1691476267000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3119] - Activate the payment option and policy schedule issuance for HASE customer in Customer Portal",
+      "parents": [
+        {
+          "id": "515329d6eeef60772c4757f745e71013495765e2",
+          "displayId": "515329d6eeef"
+        }
+      ]
+    }
+  ],
+  "size": 22
+}

@@ -1,6 +1,456 @@
 {
   "values": [
     {
+      "id": "5e56deb7aa923002273e9b0dd6c4279ebe16c03f",
+      "displayId": "5e56deb7aa92",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719908446000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719908446000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3578] - Switch all builds to use nexus on 135",
+      "parents": [
+        {
+          "id": "5e56deb7aa923002273e9b0dd6c4279ebe16c03f",
+          "displayId": "5e56deb7aa92"
+        }
+      ]
+    },
+    {
+      "id": "8aae5d0790d6da98dfcef2838b654fcc5fbdb9ca",
+      "displayId": "8aae5d0790d6",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719892407000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719892407000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3578] - Switch all builds to use nexus on 135\"",
+      "parents": [
+        {
+          "id": "8aae5d0790d6da98dfcef2838b654fcc5fbdb9ca",
+          "displayId": "8aae5d0790d6"
+        }
+      ]
+    },
+    {
+      "id": "d1a710f7e807a8a043eb0cdc94e47f1f17b3090d",
+      "displayId": "d1a710f7e807",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719888773000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719888773000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3578] - Switch all builds to use nexus on 135",
+      "parents": [
+        {
+          "id": "d1a710f7e807a8a043eb0cdc94e47f1f17b3090d",
+          "displayId": "d1a710f7e807"
+        }
+      ]
+    },
+    {
+      "id": "4875ca52c3150423aa115d2024e581c6fc32ef7c",
+      "displayId": "4875ca52c315",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719848903000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719849351000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3403] - Whitesource - Qnect Core",
+      "parents": [
+        {
+          "id": "4875ca52c3150423aa115d2024e581c6fc32ef7c",
+          "displayId": "4875ca52c315"
+        }
+      ]
+    },
+    {
+      "id": "9f14078195d7e6c373d6ca417fce31cdea992404",
+      "displayId": "9f14078195d7",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719848903000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719849299000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3403] - Whitesource - Qnect Core",
+      "parents": [
+        {
+          "id": "9f14078195d7e6c373d6ca417fce31cdea992404",
+          "displayId": "9f14078195d7"
+        }
+      ]
+    },
+    {
+      "id": "008e485dd58fa41e35c18d9421e4515923c917dc",
+      "displayId": "008e485dd58f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719848903000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719848903000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3403] - Whitesource - Qnect Core",
+      "parents": [
+        {
+          "id": "008e485dd58fa41e35c18d9421e4515923c917dc",
+          "displayId": "008e485dd58f"
+        }
+      ]
+    },
+    {
+      "id": "a49dbf60b5190d51d0a4c32d8c75961a67f18a8e",
+      "displayId": "a49dbf60b519",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719846523000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719846523000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3403] - Whitesource - Qnect Core\"",
+      "parents": [
+        {
+          "id": "a49dbf60b5190d51d0a4c32d8c75961a67f18a8e",
+          "displayId": "a49dbf60b519"
+        }
+      ]
+    },
+    {
+      "id": "4b5098c5b6b4ec48df468662456e9ba4bf9ecbb5",
+      "displayId": "4b5098c5b6b4",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719837734000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719837734000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3403] - Whitesource - Qnect Core",
+      "parents": [
+        {
+          "id": "4b5098c5b6b4ec48df468662456e9ba4bf9ecbb5",
+          "displayId": "4b5098c5b6b4"
+        }
+      ]
+    },
+    {
+      "id": "813f89777d1e2d03eb1ba1cf24950ac5a01e3b16",
+      "displayId": "813f89777d1e",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719811155000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719823866000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3550] - Enable search & view Documents for new P400 Policy - Cyber product",
+      "parents": [
+        {
+          "id": "813f89777d1e2d03eb1ba1cf24950ac5a01e3b16",
+          "displayId": "813f89777d1e"
+        }
+      ]
+    },
+    {
+      "id": "45e9cbb4b2a7da97842345cefc279102dd473608",
+      "displayId": "45e9cbb4b2a7",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719811155000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1719811155000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3550] - Enable search & view Documents for new P400 Policy - Cyber product",
+      "parents": [
+        {
+          "id": "45e9cbb4b2a7da97842345cefc279102dd473608",
+          "displayId": "45e9cbb4b2a7"
+        }
+      ]
+    },
+    {
       "id": "b251f1dfb281bb97b585ed26ea63652838c4a038",
       "displayId": "b251f1dfb281",
       "author": {
@@ -10441,5 +10891,5 @@
       ]
     }
   ],
-  "size": 232
+  "size": 242
 }

@@ -1,6 +1,816 @@
 {
   "values": [
     {
+      "id": "4068ff3cbd0067e0efc9216a2cd2350fc69ec03e",
+      "displayId": "4068ff3cbd00",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721192548000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721377828000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3592] - Manulife B2C weekly report - Add environment to subject",
+      "parents": [
+        {
+          "id": "4068ff3cbd0067e0efc9216a2cd2350fc69ec03e",
+          "displayId": "4068ff3cbd00"
+        }
+      ]
+    },
+    {
+      "id": "0d4046aa05b5ac245d0a77bbd5f736e9ebf8830d",
+      "displayId": "0d4046aa05b5",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720670356000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721313009000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "0d4046aa05b5ac245d0a77bbd5f736e9ebf8830d",
+          "displayId": "0d4046aa05b5"
+        }
+      ]
+    },
+    {
+      "id": "491e4f53920d91ede9d062d7ed6cbb0cc8efaeb8",
+      "displayId": "491e4f53920d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720594387000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721313009000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3588] - P400 up and down emails to go to integration team as well",
+      "parents": [
+        {
+          "id": "491e4f53920d91ede9d062d7ed6cbb0cc8efaeb8",
+          "displayId": "491e4f53920d"
+        }
+      ]
+    },
+    {
+      "id": "21120a385e95b1fa5fa65651a3490ae1dbecfcf5",
+      "displayId": "21120a385e95",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721192548000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721271455000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3592] - Manulife B2C weekly report - Add environment to subject",
+      "parents": [
+        {
+          "id": "21120a385e95b1fa5fa65651a3490ae1dbecfcf5",
+          "displayId": "21120a385e95"
+        }
+      ]
+    },
+    {
+      "id": "583d26b61b0ffc5fd6173c92f6aaf466cd96fda2",
+      "displayId": "583d26b61b0f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721270950000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721270950000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3592] - Manulife B2C weekly report - Add environment to subject",
+      "parents": [
+        {
+          "id": "583d26b61b0ffc5fd6173c92f6aaf466cd96fda2",
+          "displayId": "583d26b61b0f"
+        }
+      ]
+    },
+    {
+      "id": "194f3618a0626ec56108afadceb34a62c49d59b0",
+      "displayId": "194f3618a062",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721192548000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721192548000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3592] - Manulife B2C weekly report - Add environment to subject",
+      "parents": [
+        {
+          "id": "194f3618a0626ec56108afadceb34a62c49d59b0",
+          "displayId": "194f3618a062"
+        }
+      ]
+    },
+    {
+      "id": "87f8ae37f247bda48ea2c3a9996992ca394c27b0",
+      "displayId": "87f8ae37f247",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720670356000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721006294000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "87f8ae37f247bda48ea2c3a9996992ca394c27b0",
+          "displayId": "87f8ae37f247"
+        }
+      ]
+    },
+    {
+      "id": "5fcb2c8928cacab2837478e7971181f5a4bff174",
+      "displayId": "5fcb2c8928ca",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720594387000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721006264000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3588] - P400 up and down emails to go to integration team as well",
+      "parents": [
+        {
+          "id": "5fcb2c8928cacab2837478e7971181f5a4bff174",
+          "displayId": "5fcb2c8928ca"
+        }
+      ]
+    },
+    {
+      "id": "243f790d10bd705a4f6cb02f8ba281586faf2156",
+      "displayId": "243f790d10bd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719378586000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720767473000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3571] - Event Monitor CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "243f790d10bd705a4f6cb02f8ba281586faf2156",
+          "displayId": "243f790d10bd"
+        }
+      ]
+    },
+    {
+      "id": "e3806529c596f8cbe5bc843e4d6688d746ccc42b",
+      "displayId": "e3806529c596",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719378586000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720767411000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3571] - Event Monitor CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "e3806529c596f8cbe5bc843e4d6688d746ccc42b",
+          "displayId": "e3806529c596"
+        }
+      ]
+    },
+    {
+      "id": "6f052cab932c678dc1add1ba60df21f4e60044e1",
+      "displayId": "6f052cab932c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719378586000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720767358000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3571] - Event Monitor CVE-2024-22262 - upgrade spring version",
+      "parents": [
+        {
+          "id": "6f052cab932c678dc1add1ba60df21f4e60044e1",
+          "displayId": "6f052cab932c"
+        }
+      ]
+    },
+    {
+      "id": "61bcbbd33154da7bc50c526816ee49133cc8401a",
+      "displayId": "61bcbbd33154",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719979807000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720767178000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3581] - Whitesource - Event Monitor",
+      "parents": [
+        {
+          "id": "61bcbbd33154da7bc50c526816ee49133cc8401a",
+          "displayId": "61bcbbd33154"
+        }
+      ]
+    },
+    {
+      "id": "c0ea559bc824fd3c1be9eb0d99213847506ea367",
+      "displayId": "c0ea559bc824",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720670356000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720766704000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "c0ea559bc824fd3c1be9eb0d99213847506ea367",
+          "displayId": "c0ea559bc824"
+        }
+      ]
+    },
+    {
+      "id": "b13261fa38472e7998dcc151a4a46da976d0ba64",
+      "displayId": "b13261fa3847",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720594387000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720766618000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3588] - P400 up and down emails to go to integration team as well",
+      "parents": [
+        {
+          "id": "b13261fa38472e7998dcc151a4a46da976d0ba64",
+          "displayId": "b13261fa3847"
+        }
+      ]
+    },
+    {
+      "id": "5e78e0cfb3ad666d3242cbe484f17dd9b93414ec",
+      "displayId": "5e78e0cfb3ad",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719907201000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720749555000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3578] - Switch all builds to use nexus on 135",
+      "parents": [
+        {
+          "id": "5e78e0cfb3ad666d3242cbe484f17dd9b93414ec",
+          "displayId": "5e78e0cfb3ad"
+        }
+      ]
+    },
+    {
+      "id": "c97fc5b88ea04803423f3668ed72726de7d7f0d3",
+      "displayId": "c97fc5b88ea0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720747559000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720748314000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "c97fc5b88ea04803423f3668ed72726de7d7f0d3",
+          "displayId": "c97fc5b88ea0"
+        }
+      ]
+    },
+    {
+      "id": "4e59ea9863987d12784137a4c8c8b7d547dde0ec",
+      "displayId": "4e59ea986398",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720747559000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720748102000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "4e59ea9863987d12784137a4c8c8b7d547dde0ec",
+          "displayId": "4e59ea986398"
+        }
+      ]
+    },
+    {
+      "id": "f1a0f7d3cebdf24c6ab978bf9ce7ae3752e8158c",
+      "displayId": "f1a0f7d3cebd",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720747559000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720747559000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3494] - Change all email connections to use TLS - event monitor",
+      "parents": [
+        {
+          "id": "f1a0f7d3cebdf24c6ab978bf9ce7ae3752e8158c",
+          "displayId": "f1a0f7d3cebd"
+        }
+      ]
+    },
+    {
       "id": "19854ee7fd793c4ffb5707d74101cf41a99249ff",
       "displayId": "19854ee7fd79",
       "author": {
@@ -3061,5 +3871,5 @@
       ]
     }
   ],
-  "size": 68
+  "size": 86
 }

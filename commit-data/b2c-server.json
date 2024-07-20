@@ -1,6 +1,321 @@
 {
   "values": [
     {
+      "id": "94d7888a5f77fe008199f9eb5c4943063741684e",
+      "displayId": "94d7888a5f77",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719280727000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721363416000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3549] - b2c-server CSB2CReturnController::cybersourceNotification.do email reference to receipt number",
+      "parents": [
+        {
+          "id": "94d7888a5f77fe008199f9eb5c4943063741684e",
+          "displayId": "94d7888a5f77"
+        }
+      ]
+    },
+    {
+      "id": "424ba7a74cb06b05b32614f3ea25bf4257361bc7",
+      "displayId": "424ba7a74cb0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721299913000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721299913000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "424ba7a74cb06b05b32614f3ea25bf4257361bc7",
+          "displayId": "424ba7a74cb0"
+        }
+      ]
+    },
+    {
+      "id": "32ce1c755e5c5e6576fb96b3e02eae5d3eba1ec3",
+      "displayId": "32ce1c755e5c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721119983000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721120109000,
+      "message": "FOR PENTEST ONLY - adjusted rate limit to 500 request call",
+      "parents": [
+        {
+          "id": "32ce1c755e5c5e6576fb96b3e02eae5d3eba1ec3",
+          "displayId": "32ce1c755e5c"
+        }
+      ]
+    },
+    {
+      "id": "66693c6a74c27b37eafe8ec8f93fe6f564784b34",
+      "displayId": "66693c6a74c2",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721119983000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721119983000,
+      "message": "FOR PENTEST ONLY - adjusted rate limit to 500 request call",
+      "parents": [
+        {
+          "id": "66693c6a74c27b37eafe8ec8f93fe6f564784b34",
+          "displayId": "66693c6a74c2"
+        }
+      ]
+    },
+    {
+      "id": "f423b16f184257f73bdafba43c1020a8d7f2b384",
+      "displayId": "f423b16f1842",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719280727000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721008126000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3549] - b2c-server CSB2CReturnController::cybersourceNotification.do email reference to receipt number",
+      "parents": [
+        {
+          "id": "f423b16f184257f73bdafba43c1020a8d7f2b384",
+          "displayId": "f423b16f1842"
+        }
+      ]
+    },
+    {
+      "id": "039bb6c9990928dcd3890c94cacc35319e9366fa",
+      "displayId": "039bb6c99909",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1720070568000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720769569000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3550] - Enable search & view Documents for new P400 Policy - Cyber product",
+      "parents": [
+        {
+          "id": "039bb6c9990928dcd3890c94cacc35319e9366fa",
+          "displayId": "039bb6c99909"
+        }
+      ]
+    },
+    {
+      "id": "c3f66aaa2f25daea123e1f35a604d4f6b97a6f27",
+      "displayId": "c3f66aaa2f25",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1719905875000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1720749030000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3578] - Switch all builds to use nexus on 135",
+      "parents": [
+        {
+          "id": "c3f66aaa2f25daea123e1f35a604d4f6b97a6f27",
+          "displayId": "c3f66aaa2f25"
+        }
+      ]
+    },
+    {
       "id": "6d2b1145852190fa0dfaa7fba907f98636fe64f2",
       "displayId": "6d2b11458521",
       "author": {
@@ -14356,5 +14671,5 @@
       ]
     }
   ],
-  "size": 319
+  "size": 326
 }

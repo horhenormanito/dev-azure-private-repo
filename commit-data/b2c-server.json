@@ -1,6 +1,681 @@
 {
   "values": [
     {
+      "id": "d871783f8e8233e44d50b5d6687b39ff576a3102",
+      "displayId": "d871783f8e82",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721299913000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721953179000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "d871783f8e8233e44d50b5d6687b39ff576a3102",
+          "displayId": "d871783f8e82"
+        }
+      ]
+    },
+    {
+      "id": "228e207d4d3bcf30f9e23f56709ad9be761d75bf",
+      "displayId": "228e207d4d3b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721788847000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721799921000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3612] - b2c-server: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching smtpx.qbe.com found.",
+      "parents": [
+        {
+          "id": "228e207d4d3bcf30f9e23f56709ad9be761d75bf",
+          "displayId": "228e207d4d3b"
+        }
+      ]
+    },
+    {
+      "id": "2059dae834b00987a70ba964ba29df14d6cc1142",
+      "displayId": "2059dae834b0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721788847000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721788847000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3612] - b2c-server: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching smtpx.qbe.com found.",
+      "parents": [
+        {
+          "id": "2059dae834b00987a70ba964ba29df14d6cc1142",
+          "displayId": "2059dae834b0"
+        }
+      ]
+    },
+    {
+      "id": "fff576de3de0a034c47149c0788d0b14fb072871",
+      "displayId": "fff576de3de0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721720854000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721720854000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3598] - NullPointerException at CorporatePortalController.retrieveUserPolicies(CorporatePortalController.java:487)",
+      "parents": [
+        {
+          "id": "fff576de3de0a034c47149c0788d0b14fb072871",
+          "displayId": "fff576de3de0"
+        }
+      ]
+    },
+    {
+      "id": "987a01962c5fd505eeed59eea85f9924a459b94a",
+      "displayId": "987a01962c5f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721299913000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721652193000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "987a01962c5fd505eeed59eea85f9924a459b94a",
+          "displayId": "987a01962c5f"
+        }
+      ]
+    },
+    {
+      "id": "1b10ab0a49ead8e13b205af0d24296503d47272f",
+      "displayId": "1b10ab0a49ea",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721633505000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721633964000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "1b10ab0a49ead8e13b205af0d24296503d47272f",
+          "displayId": "1b10ab0a49ea"
+        }
+      ]
+    },
+    {
+      "id": "2783885ae7abe5a39cc721ffd523665268f81365",
+      "displayId": "2783885ae7ab",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721633505000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721633505000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "2783885ae7abe5a39cc721ffd523665268f81365",
+          "displayId": "2783885ae7ab"
+        }
+      ]
+    },
+    {
+      "id": "1211ccf85196ef3e4e4f17a243f9176b9bd94025",
+      "displayId": "1211ccf85196",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721631862000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721631862000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "1211ccf85196ef3e4e4f17a243f9176b9bd94025",
+          "displayId": "1211ccf85196"
+        }
+      ]
+    },
+    {
+      "id": "71b4dfd27311d65b37026435ce7297be0a4e72b2",
+      "displayId": "71b4dfd27311",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721623547000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721630897000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "71b4dfd27311d65b37026435ce7297be0a4e72b2",
+          "displayId": "71b4dfd27311"
+        }
+      ]
+    },
+    {
+      "id": "14f78dbb9a4d319a94cf5cf4aebfbb9fc5005344",
+      "displayId": "14f78dbb9a4d",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721629346000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721629346000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "14f78dbb9a4d319a94cf5cf4aebfbb9fc5005344",
+          "displayId": "14f78dbb9a4d"
+        }
+      ]
+    },
+    {
+      "id": "b55c932b850b77c5a46917eb200b665d13e51831",
+      "displayId": "b55c932b850b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721629301000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721629301000,
+      "message": "Revert \"Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21\"",
+      "parents": [
+        {
+          "id": "b55c932b850b77c5a46917eb200b665d13e51831",
+          "displayId": "b55c932b850b"
+        }
+      ]
+    },
+    {
+      "id": "f11f56a578f0b09b66b966b56a35f0eb6fc929ed",
+      "displayId": "f11f56a578f0",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721629059000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721629059000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "f11f56a578f0b09b66b966b56a35f0eb6fc929ed",
+          "displayId": "f11f56a578f0"
+        }
+      ]
+    },
+    {
+      "id": "ea373c96613f985122da5d1b9a17a0744a08ec77",
+      "displayId": "ea373c96613f",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721623547000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721623547000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3599]- Qnect Support - B2C policy not issued 10 minutes after payment T0779605 PRD - July 21",
+      "parents": [
+        {
+          "id": "ea373c96613f985122da5d1b9a17a0744a08ec77",
+          "displayId": "ea373c96613f"
+        }
+      ]
+    },
+    {
+      "id": "f2683bff4b0b0bb8a452e8d9c3b9c04785fbadb9",
+      "displayId": "f2683bff4b0b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721299913000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721616491000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "f2683bff4b0b0bb8a452e8d9c3b9c04785fbadb9",
+          "displayId": "f2683bff4b0b"
+        }
+      ]
+    },
+    {
+      "id": "938c2ff7118b7e773da4afdc904973fe1935f3ed",
+      "displayId": "938c2ff7118b",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721299913000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721500349000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "938c2ff7118b7e773da4afdc904973fe1935f3ed",
+          "displayId": "938c2ff7118b"
+        }
+      ]
+    },
+    {
       "id": "94d7888a5f77fe008199f9eb5c4943063741684e",
       "displayId": "94d7888a5f77",
       "author": {
@@ -14671,5 +15346,5 @@
       ]
     }
   ],
-  "size": 326
+  "size": 341
 }

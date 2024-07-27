@@ -1,6 +1,546 @@
 {
   "values": [
     {
+      "id": "53e326fe74c297c4330c798fc85242cadf05d398",
+      "displayId": "53e326fe74c2",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1722004920000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1722004920000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3604] - B0100963, successful payment but failed issuance to IF, retained as AR(FR). Can’t see PolicyUpdate as well via BTM so need to check what happe",
+      "parents": [
+        {
+          "id": "53e326fe74c297c4330c798fc85242cadf05d398",
+          "displayId": "53e326fe74c2"
+        }
+      ]
+    },
+    {
+      "id": "da3a5c92025c763cbe63005fd12a612b7300f93c",
+      "displayId": "da3a5c92025c",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721290922000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721953348000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "da3a5c92025c763cbe63005fd12a612b7300f93c",
+          "displayId": "da3a5c92025c"
+        }
+      ]
+    },
+    {
+      "id": "691cc8073f29cbf0b73b82b0e955eb08fe8962ee",
+      "displayId": "691cc8073f29",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721701731000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721876689000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3600] - Live person java script needs to be updated to lower envs",
+      "parents": [
+        {
+          "id": "691cc8073f29cbf0b73b82b0e955eb08fe8962ee",
+          "displayId": "691cc8073f29"
+        }
+      ]
+    },
+    {
+      "id": "d319e47766cf3dfa26917294b1a7355930aa8cfe",
+      "displayId": "d319e47766cf",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721269777000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721802200000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3573] - SchedulerException: Job threw an unhandled exception",
+      "parents": [
+        {
+          "id": "d319e47766cf3dfa26917294b1a7355930aa8cfe",
+          "displayId": "d319e47766cf"
+        }
+      ]
+    },
+    {
+      "id": "5fd4363808d5fb37d35d2b3c43271e8bac1ec5d5",
+      "displayId": "5fd4363808d5",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721802056000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721802056000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3573] - SchedulerException: Job threw an unhandled exception",
+      "parents": [
+        {
+          "id": "5fd4363808d5fb37d35d2b3c43271e8bac1ec5d5",
+          "displayId": "5fd4363808d5"
+        }
+      ]
+    },
+    {
+      "id": "9e0f5d3ac47394573a299d4d856fe7d4233a5242",
+      "displayId": "9e0f5d3ac473",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721701731000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721714622000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3600] - Live person java script needs to be updated to lower envs",
+      "parents": [
+        {
+          "id": "9e0f5d3ac47394573a299d4d856fe7d4233a5242",
+          "displayId": "9e0f5d3ac473"
+        }
+      ]
+    },
+    {
+      "id": "71c6cae4b806afa3ef01ce425f05a543e5927580",
+      "displayId": "71c6cae4b806",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721701731000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721714554000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3600] - Live person java script needs to be updated to lower envs",
+      "parents": [
+        {
+          "id": "71c6cae4b806afa3ef01ce425f05a543e5927580",
+          "displayId": "71c6cae4b806"
+        }
+      ]
+    },
+    {
+      "id": "adba67de5eafa6829c85c11c576e3326863363fe",
+      "displayId": "adba67de5eaf",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721714004000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721714004000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3573] - SchedulerException: Job threw an unhandled exception",
+      "parents": [
+        {
+          "id": "adba67de5eafa6829c85c11c576e3326863363fe",
+          "displayId": "adba67de5eaf"
+        }
+      ]
+    },
+    {
+      "id": "334982a83e077068d7e945be30eb70202fa2fd42",
+      "displayId": "334982a83e07",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721703544000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721703544000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3600] - Live person java script needs to be updated to lower envs",
+      "parents": [
+        {
+          "id": "334982a83e077068d7e945be30eb70202fa2fd42",
+          "displayId": "334982a83e07"
+        }
+      ]
+    },
+    {
+      "id": "f5502bc54819664a19f0fe364cc9f27981dd1f85",
+      "displayId": "f5502bc54819",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721701731000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721701731000,
+      "message": "Qnect Performance Tuning & Modernization - [PERF-3600] - Live person java script needs to be updated to lower envs",
+      "parents": [
+        {
+          "id": "f5502bc54819664a19f0fe364cc9f27981dd1f85",
+          "displayId": "f5502bc54819"
+        }
+      ]
+    },
+    {
+      "id": "62a1577ea71872688cad8ec6dfbca887f76ea32e",
+      "displayId": "62a1577ea718",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721290922000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721652340000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "62a1577ea71872688cad8ec6dfbca887f76ea32e",
+          "displayId": "62a1577ea718"
+        }
+      ]
+    },
+    {
+      "id": "3c61c029e103cc0866b26cdb80d5da63a6c26c19",
+      "displayId": "3c61c029e103",
+      "author": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "authorTimestamp": 1721290922000,
+      "committer": {
+        "name": "Nor*****************",
+        "emailAddress": "Nor****************@qbe.com",
+        "active": true,
+        "displayName": "Nor*****************",
+        "id": 333157,
+        "slug": "227903",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://dev.azure.com/***/********/_apis/git/repositories/********/commits/********"
+            }
+          ]
+        }
+      },
+      "committerTimestamp": 1721616440000,
+      "message": "AGCP-6919 - INC3079575 Qnect SG: Status Code 500 error triggered when using PayNow to complete Customer Payment for BYO Policies",
+      "parents": [
+        {
+          "id": "3c61c029e103cc0866b26cdb80d5da63a6c26c19",
+          "displayId": "3c61c029e103"
+        }
+      ]
+    },
+    {
       "id": "a73be99eb881354b13dfdcea7b5f0654cc0995dc",
       "displayId": "a73be99eb881",
       "author": {
@@ -28666,5 +29206,5 @@
       ]
     }
   ],
-  "size": 637
+  "size": 649
 }
